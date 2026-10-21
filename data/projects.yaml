@@ -2,7 +2,7 @@
   name: keycloak-headless
   tagline: Better Auth–style DX for Keycloak SPAs
   summary: Lit web components and framework helpers for React, Vue, Svelte, and Solid — native UI control without redirects.
-  github: https://github.com/edewit/keycloak-headless
+  github: https://github.com/keycloak-frontend-tools/keycloak-headless
   npm: keycloak-headless
   install: npm install keycloak-headless oidc-spa
   accent: sky
@@ -24,7 +24,7 @@
   name: keycloak-react
   tagline: Clerk-style React auth for Next.js
   summary: React components for Keycloak with SSR support — built on Auth.js so tokens stay server-side and never reach the browser.
-  github: https://github.com/edewit/keycloak-react
+  github: https://github.com/keycloak-frontend-tools/keycloak-react
   npm: keycloak-react
   install: npm install keycloak-react next-auth
   accent: rose
@@ -46,7 +46,7 @@
   name: login-ui-base
   tagline: Modern login themes without Freemarker pain
   summary: A reusable foundation for customizing Keycloak login UIs with client-side rendering or Quarkus Qute server-side templates.
-  github: https://github.com/edewit/login-ui-base
+  github: https://github.com/keycloak-frontend-tools/login-ui-base
   npm: "@edewit/login-ui-base"
   install: npm install @edewit/login-ui-base
   accent: violet
@@ -68,7 +68,7 @@
   name: Backend-for-Frontend
   tagline: Secure BFF auth layer as a Keycloak extension
   summary: A Keycloak realm resource provider that keeps tokens server-side, issues BFF_SESSION cookies, and proxies backend calls.
-  github: https://github.com/edewit/Backend-for-Frontend
+  github: https://github.com/keycloak-frontend-tools/Backend-for-Frontend
   install: mvn clean package && cp target/*.jar $KEYCLOAK_HOME/providers/
   accent: emerald
   features:

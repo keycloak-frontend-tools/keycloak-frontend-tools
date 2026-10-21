@@ -4,10 +4,10 @@ A promotional website for open source projects that make frontend development wi
 
 ## Projects featured
 
-- **[keycloak-headless](https://github.com/edewit/keycloak-headless)** — Lit web components and framework helpers for React, Vue, Svelte, and Solid
-- **[keycloak-react](https://github.com/edewit/keycloak-react)** — Clerk-style React components for Next.js with SSR and server-side tokens
-- **[login-ui-base](https://github.com/edewit/login-ui-base)** — Modern login themes with client-side or Qute server-side rendering
-- **[Backend-for-Frontend](https://github.com/edewit/Backend-for-Frontend)** — Keycloak BFF extension with secure session cookies
+- **[keycloak-headless](https://github.com/keycloak-frontend-tools/keycloak-headless)** — Lit web components and framework helpers for React, Vue, Svelte, and Solid
+- **[keycloak-react](https://github.com/keycloak-frontend-tools/keycloak-react)** — Clerk-style React components for Next.js with SSR and server-side tokens
+- **[login-ui-base](https://github.com/keycloak-frontend-tools/login-ui-base)** — Modern login themes with client-side or Qute server-side rendering
+- **[Backend-for-Frontend](https://github.com/keycloak-frontend-tools/Backend-for-Frontend)** — Keycloak BFF extension with secure session cookies
 
 ## Getting started
 
